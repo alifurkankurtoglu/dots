@@ -1,2 +1,2 @@
-# dots
-dots project
+# DOTS
+#Collection of animated dots using CSS
